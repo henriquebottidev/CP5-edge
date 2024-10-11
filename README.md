@@ -41,9 +41,9 @@ projeto/
 pip install dash plotly requests pytz
 ```
 
-  ## Passo 3: Executar a API Python e o Dashboard
-      - Configure o IP da máquina virtual AWS no api-sth.py substituindo o IP_ADDRESS pelo endereço correto.
-      - Execute a aplicação com o comando abaixo:
+## Passo 3: Executar a API Python e o Dashboard
+Configure o IP da máquina virtual AWS no api-sth.py substituindo o IP_ADDRESS pelo endereço correto.
+Execute a aplicação com o comando abaixo:
 
 ```bash
 python api-sth.py
